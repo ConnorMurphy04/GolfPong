@@ -27,6 +27,6 @@ The game is engaging because each bounce changes the ball’s angle, requiring q
 - Expand themes into varied courses such as golf greens, rooftops, or space arenas.  
 
 ## Development Reflection  
-The hardest part was adjusting ball and paddle physics to ensure randomness and speed changes were happening consistently. Small changes were often hard to notice unless dramatically increased.  
+The hardest part was adjusting ball and paddle physics to ensure randomness and speed changes were happening consistently. Small changes were often hard to notice unless dramatically increased. I also know that much of my design implementation took the longest method possible as oppose to using parents and children object to optimize time efficiency when designing the look and feel of the game.
 
 I learned how to use `Rigidbody2D`, collisions, and input handling in Unity. Next time, I would focus earlier on level variety and UI improvements for a more polished experience.  
